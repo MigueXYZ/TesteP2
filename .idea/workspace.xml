@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0110213-aeee-43c7-a80c-0462ca1c10d0" name="Default Changelist" comment="" />
+    <list default="true" id="f2117160-56a6-4a07-a431-60452a120b70" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/GestorInstanciaFerias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/GestorInstanciaFerias.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +27,19 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/GestorInstanciaFerias.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaGatos.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaCaes.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaAnimais.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaPessoas.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/GestorInstanciaFerias.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/Piscina.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaAnimais.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaCaes.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaGatos.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/modelo/PiscinaPessoas.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1c8FAixQObEIuepmeNHjif0HXrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -86,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TestePraticoExemplo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TestePraticoExemplo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -116,20 +133,21 @@
       <workItem from="1686046550547" duration="5732000" />
       <workItem from="1686052340683" duration="3097000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1686907244298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686907244299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pt/ipleiria/estg/dei/ei/p2/testepratico/Main.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

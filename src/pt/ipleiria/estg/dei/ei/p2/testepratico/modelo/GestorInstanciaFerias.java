@@ -57,11 +57,11 @@ public enum GestorInstanciaFerias {
         piscinas.add(piscinaGatos);
 
         PiscinaPessoas piscinaPessoas = new PiscinaPessoas(10000, 30);
-        piscinaGatos.adicionarAgua(6000);
-        piscinaGatos.adicionar(pessoas.get(0));
-        piscinaGatos.adicionar(pessoas.get(1));
-        piscinaGatos.adicionar(pessoas.get(2));
-        piscinaGatos.adicionar(pessoas.get(3));
+        piscinaPessoas.adicionarAgua(6000);
+        piscinaPessoas.adicionar(pessoas.get(0));
+        piscinaPessoas.adicionar(pessoas.get(1));
+        piscinaPessoas.adicionar(pessoas.get(2));
+        piscinaPessoas.adicionar(pessoas.get(3));
         piscinas.add(piscinaPessoas);
 
     }
